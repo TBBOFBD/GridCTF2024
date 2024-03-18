@@ -1,0 +1,1 @@
+<p align="center"><img src="./images/banner_transparent.png" alt="grid-ctf-banner"/></p>
