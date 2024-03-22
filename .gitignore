@@ -1,4 +1,11 @@
 /solutions
+/sources
+/*.lock
+target
+*.log
+*.iml
+.vs*
+.idea
 
 # Will soon be released...
 /challenges
