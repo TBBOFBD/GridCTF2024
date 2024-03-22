@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: #00FF00;
+    overflow: hidden;
+}
+
+img.banner {
+    width: 50%;
+    height: auto;
+}
+
+main {
+    width: 50%;
+    left: 25%;
+    position: relative
+}
+
+code {
+    color: #00FFA9
+}
